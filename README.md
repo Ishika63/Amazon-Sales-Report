@@ -1,4 +1,5 @@
 # Amazon-Sales-Report
+The Amazon Sales Report Project is a data-driven initiative aimed at leveraging the power of data analysis and visualization, this project provides valuable insights into sales trends, product performance and customer behavior on the Amazon platform.
 
 ### Technologies Used- 
 
